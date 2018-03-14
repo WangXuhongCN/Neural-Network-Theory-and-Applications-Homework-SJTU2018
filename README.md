@@ -6,3 +6,5 @@ http://202.120.38.76:8000/d/2d41685180/
 http://202.120.38.76:8000/d/247abb08cf/
 3. 作业上传链接：
 http://202.120.38.76:8000/u/d/1847dac84c/
+4. TEXTBOOK:
+Neural Network Design (2nd Edition)Martin T. Hagan
